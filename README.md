@@ -1,4 +1,4 @@
-# Social-Network License Badge
+# Social-Network API
 
 ## Description
 This project involves the creation of a backend for a social networking website using MongoDB, Express.js, Mongoose, and a NoSQL database. The implemented features include routes for CRUD operations (GET, POST, PUT, DELETE) for both users and thoughts, as well as functionalities for adding friends and reactions.
