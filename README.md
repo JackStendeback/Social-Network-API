@@ -19,4 +19,4 @@ Access the project files via this [Google Drive link](https://drive.google.com/f
 For any queries or clarifications, feel free to contact me via email. You can also explore more of my work on [GitHub](https://github.com/JackStendeback).
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). For more details, refer to the provided link.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
