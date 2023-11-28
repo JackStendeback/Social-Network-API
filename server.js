@@ -5,7 +5,7 @@ const db = require('./config/connection');
 // * importing routes from my routes folder.
 const routes = require('./routes');
 // * creating a port on localhost 3001
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3002;
 // * using express
 const app = express();
 // * Utilizing the routes
@@ -18,5 +18,5 @@ app.use(routes);
 db.once('open', () => {
     app.listen(port, () => {
         console.log(`API server running on port ${port}!`);
-    });
+    });g
 });
